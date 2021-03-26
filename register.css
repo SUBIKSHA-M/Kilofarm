@@ -1,0 +1,19 @@
+
+body
+{
+	font: 'Raleway',sans-serif;
+	color: rgba(0,0,0,.5);
+	text-transform: uppercase;
+	letter-spacing: .7em;
+	top: 25%;
+	background: linear-gradient(to right,rgb(255,0,257),rgb(52,48,248));
+}
+.bounding-box {
+  position: absolute;
+  box-shadow: 0 0 0 3px #149df2 inset;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+}
+
